@@ -74,41 +74,41 @@
   aumentar as vendas de uma empresa (DAS, 2021).
 
 > E-MAIL MARKETING
-> -Consiste no anúncio de produtos e serviços mediante o envio de e-mails para um
 
-    grupo de pessoas em específico ou em geral. Esta ferramenta é muito utilizada por
-    empresas que desejam alcançar um volume grande de pessoas com baixo investi-
-    mento. Esta modalidade permite que o empreendedor divulgue os seus serviços sem
-    precisar contratar empresas para isso.
+- Consiste no anúncio de produtos e serviços mediante o envio de e-mails para um
+  grupo de pessoas em específico ou em geral. Esta ferramenta é muito utilizada por
+  empresas que desejam alcançar um volume grande de pessoas com baixo investi-
+  mento. Esta modalidade permite que o empreendedor divulgue os seus serviços sem
+  precisar contratar empresas para isso.
 
 > MÍDIAS SOCIAIS
-> -As mídias sociais são plataformas que permitem que usuários compartilhem, criem e
 
-    interajam com diferentes conteúdos, comunidades e serviços. Como instrumentos de
-    divulgação, oferecem diversas possibilidades, como a criação de novas conexões, a
-    obtenção de informações e, principalmente, a promoção de produtos e serviços para
-    públicos segmentados. O uso das mídias sociais tem crescido, exponencialmente, e já
-    são utilizadas por milhões de pessoas em todo o mundo. As plataformas mais popula-
-    res incluem o Facebook, o Twitter, o Instagram e o YouTube (MORAIS; BRITO, 2020).
+- As mídias sociais são plataformas que permitem que usuários compartilhem, criem e
+  interajam com diferentes conteúdos, comunidades e serviços. Como instrumentos de
+  divulgação, oferecem diversas possibilidades, como a criação de novas conexões, a
+  obtenção de informações e, principalmente, a promoção de produtos e serviços para
+  públicos segmentados. O uso das mídias sociais tem crescido, exponencialmente, e já
+  são utilizadas por milhões de pessoas em todo o mundo. As plataformas mais popula-
+  res incluem o Facebook, o Twitter, o Instagram e o YouTube (MORAIS; BRITO, 2020).
 
 > MARKETING DE CONTEÚDO
 
-    -É uma forma de comunicação que usa conteúdos informativos, educacionais, diverti-
-    dos e interessantes para atrair e manter o interesse do público. Como a comunicação
-    é direcionada a um público específico, as empresas conseguem direcionar, de forma
-    mais eficaz, os seus esforços de marketing, otimizando, assim, o seu retorno sobre o
-    investimento. Mediante o desenvolvimento de conteúdo relevante para o público-alvo,
-    as empresas criam um relacionamento de fidelização com os clientes por conta do
-    conteúdo enquanto anunciam seus produtos e serviços (REZ, 2017).
+- É uma forma de comunicação que usa conteúdos informativos, educacionais, diverti-
+  dos e interessantes para atrair e manter o interesse do público. Como a comunicação
+  é direcionada a um público específico, as empresas conseguem direcionar, de forma
+  mais eficaz, os seus esforços de marketing, otimizando, assim, o seu retorno sobre o
+  investimento. Mediante o desenvolvimento de conteúdo relevante para o público-alvo,
+  as empresas criam um relacionamento de fidelização com os clientes por conta do
+  conteúdo enquanto anunciam seus produtos e serviços (REZ, 2017).
 
 > MARKETING DE INFLUENCIADORES
 
-    -É uma estratégia de marketing moderna que envolve celebridades, influenciadores e
-    outras figuras públicas para promover produtos, serviços e marcas. Esta estratégia é
-    uma ótima forma de alcançar um novo público, expandir o conhecimento da marca e
-    aumentar vendas. Para esse tipo de estratégia, não é necessário que o influenciador
-    seja muito famoso, mas, sim, conhecido e engajado. Basta que o empreendedor avalie
-    o alcance e o público-alvo, ou seja, se o público-alvo está concentrado em uma locali-
-    dade específica, influenciadores que possuam muitos seguidores e sejam conhecidos
-    naquela localidade podem ser uma opção criativa de divulgação do produto ou servi-
-    ço (BARREIRO; DINIS; BREDA, 2019).
+- É uma estratégia de marketing moderna que envolve celebridades, influenciadores e
+  outras figuras públicas para promover produtos, serviços e marcas. Esta estratégia é
+  uma ótima forma de alcançar um novo público, expandir o conhecimento da marca e
+  aumentar vendas. Para esse tipo de estratégia, não é necessário que o influenciador
+  seja muito famoso, mas, sim, conhecido e engajado. Basta que o empreendedor avalie
+  o alcance e o público-alvo, ou seja, se o público-alvo está concentrado em uma locali-
+  dade específica, influenciadores que possuam muitos seguidores e sejam conhecidos
+  naquela localidade podem ser uma opção criativa de divulgação do produto ou servi-
+  ço (BARREIRO; DINIS; BREDA, 2019).
