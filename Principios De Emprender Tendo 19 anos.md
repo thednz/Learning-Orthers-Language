@@ -112,3 +112,17 @@
   dade específica, influenciadores que possuam muitos seguidores e sejam conhecidos
   naquela localidade podem ser uma opção criativa de divulgação do produto ou servi-
   ço (BARREIRO; DINIS; BREDA, 2019).
+
+# Criativdade
+
+- Para mim a criatividade é algo como se fosse uma ferramenta para expressar ideas ou
+  soluções formadas apartir de situações que não estavão sendo planejadas e com isso
+  criar algo novo o inovador de acordo com aquilo com essa ferramenta está sendo manuseio.
+
+> Bloqueadores De Criatividade
+
+- Bloqueadores de mémorias são aqueles pensamentos que impedêm daquela nova idea se
+  desenvolver, dentre os principais são o medo de fracassar,falta de tempo e falta de mudança
+  esses 3 principais fatores contruibuêm para ausência de um dos principais pilares do
+  empredendorismo moderno onde estão sempre visando a criatividade como forma de conseguir
+  mais publicidade.
